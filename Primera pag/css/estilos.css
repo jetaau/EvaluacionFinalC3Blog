@@ -1,0 +1,80 @@
+.logo-img{
+  height: 100px;
+  margin-top: 4px;
+}
+.navbar{
+  height: 130px;
+  background-color: blue;
+  margin-bottom: 0px;
+}
+.redes{
+  margin-top: 8px;
+
+}
+.redes-sociales{
+  background-color: pink;
+  height: 130px;
+r
+}
+.logo{
+  background-color: red;
+  height: 130px;
+}
+.r1{
+  background-color: yellow;
+  height: 65px;
+}
+.r2{
+  background-color: purple;
+  height: 65px;
+}
+.cont-redes{
+  margin-left: 0px;
+}
+/* fin Header */
+
+/* Barra de Navegacion */
+.navbar2{
+  background-color: orange;
+  height: 40px;
+}
+button{
+  margin-top: 3px;
+  width: 150px;
+  margin-left: 4px;
+}
+.n1{
+  background-color: blue;
+}
+.n2{
+  background-color: yellow;
+}
+/* fin Barra de Navegacion */
+
+/* Contenido Principal */
+.imagen-1{
+  height: 180px;
+  margin-top: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+label .glyphicon{
+  font-size: 50px;
+  color: black;
+}
+textarea{
+  border: solid black 1px;
+  border-radius: 10px;
+  background-color: grey;
+}
+input{
+  width: 220px;
+  margin-top: 10px;
+  border: solid black 2px;
+  border-radius: 10px;
+}
+li{
+  background-color: blue;
+  border-radius: 10px;
+  border: solid 2px black;
+}
