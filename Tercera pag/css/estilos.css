@@ -1,0 +1,43 @@
+.encabezado{
+  height: 8rem;
+}
+.logo img{
+  height: 8rem;
+  border: 2px solid black;
+}
+.botones{
+  max-height: 8rem;
+}
+.j1{
+  max-height: 8rem;
+  margin-left: -15px;
+}
+.botones .sb{
+  min-width: 1px;
+  
+}
+.botones a{
+  font-size: 10px;
+  border: solid black 2px;
+  padding: 2px;
+  min-width: 8rem;
+}
+.slogan{
+  max-height: 4rem;
+}
+h5{
+  margin-top: 37px;
+}
+.contenido{
+  min-height: 50rem;
+}
+.redes{
+  min-height: 40rem;
+}
+a img{
+  height: 5rem;
+  margin-top: 20px;
+}
+.card img{
+  border: 15px solid black;
+}
